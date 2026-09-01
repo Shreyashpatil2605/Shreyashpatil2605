@@ -23,14 +23,6 @@ email me :- shreyashpatil2605@gmail.com
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 
----
-
-### 📊 GitHub Stats  
-![Shreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyashpatil07&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyashpatil07&layout=compact&theme=tokyonight)
-
----
 
 ### 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-patil-218506338/)  
