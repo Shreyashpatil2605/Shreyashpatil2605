@@ -26,9 +26,9 @@ email me :- shreyashpatil2605@gmail.com
 ---
 
 ### 📊 GitHub Stats  
-![Shreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudeshpatil07&show_icons=true&theme=tokyonight)  
+![Shreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyashpatil07&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeshpatil07&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyashpatil07&layout=compact&theme=tokyonight)
 
 ---
 
@@ -38,9 +38,9 @@ email me :- shreyashpatil2605@gmail.com
 
 ### 📊 Activity Overview  
 
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sudeshpatil07&theme=tokyonight)  
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/commits?username=Sudeshpatil07&theme=tokyonight)  
-![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudeshpatil07&theme=tokyonight)
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shreyashpatil07&theme=tokyonight)  
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/commits?username=Shreyashpatil07&theme=tokyonight)  
+![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreyashpatil07&theme=tokyonight)
 
 
 
@@ -50,5 +50,3 @@ email me :- shreyashpatil2605@gmail.com
 
 ---
 ⭐️ *Thanks for visiting my profile! Feel free to check out my projects and drop a star if you like them.*  
-
-###Sabse Katil Happus Patil
